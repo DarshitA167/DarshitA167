@@ -6,7 +6,7 @@
 
 💞️ I’m looking forward to collaborate on making creative java programs,planning innovative start-up ideas and working over it!
 
-📫 You can get in touch with me on my Email-Id (darshitayar167@gmail.com)
+📫 You can get in touch with me on my Email-Id (djahir167@gmail.com)
 
 <!---
 DarshitA167/DarshitA167 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
