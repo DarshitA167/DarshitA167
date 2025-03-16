@@ -1,14 +1,18 @@
-👋 Hi, I’m @Darshit167
+👋 Hi, I’m @Darshit J. Ayar 
 
-👀 I’m interested in coding(Java & Python),doing ingenious start-ups,associating with equal mindset people !
+🚀 About Me
+I am a dedicated Computer Science student (Semester 4) with a strong focus on Artificial Intelligence, Cybersecurity, and Blockchain. My passion lies in developing scalable software solutions, securing digital infrastructures, and exploring emerging technologies. I am committed to continuous learning and innovation, aiming to contribute meaningfully to the tech industry.
 
-🌱 I’m currently doing B.tech in computer science from LJIET'27 !
+🛠 Technical Skills
+🔹 Programming: Python, C++, JavaScript
+🔹 Backend Development: Flask, Node.js
+🔹 Databases: MySQL, SQLAlchemy
+🔹 Cybersecurity & AI: Ethical Hacking, Machine Learning
 
-💞️ I’m looking forward to collaborate on making creative java programs,planning innovative start-up ideas and working over it!
+🔍 Current Projects & Learning
+E-commerce Platform Development – Building a dynamic web application using Flask & MySQL
+Cybersecurity & AI Research – Enhancing expertise in ethical hacking and AI-driven security
+Guitar Practice – Developing creativity and discipline through music
 
-📫 You can get in touch with me on my Email-Id (djahir167@gmail.com)
-
-<!---
-DarshitA167/DarshitA167 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📬 Get in Touch
+💼 LinkedIn: www.linkedin.com/in/darshit-j-ayar-5698a5306 | 📧 Email: djahir167@gmail.com
