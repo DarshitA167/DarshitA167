@@ -15,4 +15,4 @@ Cybersecurity & AI Research – Enhancing expertise in ethical hacking and AI-dr
 Guitar Practice – Developing creativity and discipline through music
 
 📬 Get in Touch
-💼 LinkedIn: www.linkedin.com/in/darshit-j-ayar-5698a5306 | 📧 Email: djahir167@gmail.com
+💼 LinkedIn: linkedin.com/in/darshitayar/ | 📧 Email: djahir167@gmail.com
