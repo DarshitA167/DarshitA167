@@ -1,136 +1,310 @@
-<div align="center">
+<!--
+THEME
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Darshit%20Ayar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=GTGOAT%20%7C%20Security%20Engineer%20%7C%20Builder%20%7C%20Founder&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+Background : #0A0E17
+Purple     : #8B5CF6
+Blue       : #3B82F6
+Cyan       : #06B6D4
+Text       : #E2E8F0
+-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Engineer+who+thinks+like+an+attacker.;Builder+who+scales+like+a+founder.;A+man+the+universe+is+meant+to+fit.)](https://github.com/DarshitA167)
+<p align="center">
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:0A0E17,40:8B5CF6,70:3B82F6,100:06B6D4&text=DARSHIT%20AYAR&fontColor=E2E8F0&fontSize=70&fontAlignY=40&animation=fadeIn"/>
+
+</p>
+
+<h1 align="center">DARSHIT AYAR</h1>
+
+<h3 align="center">
+
+Security Engineer • AI Systems Builder • Cybersecurity Researcher
+
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=1000&lines=Building+Systems+That+Think+Like+Attackers;Cybersecurity+Engineer;AI+Systems+Builder;Future+MS+Cybersecurity+Student;Researching+The+Future+Of+Digital+Defense"/>
+
+</p>
 
 ---
 
-## `> whoami`
+# 🎬 OPENING SCENE
 
-```python
-class DarshitAyar:
-    location    = "Ahmedabad, India 🇮🇳"
-    education   = "B.Tech CS @ LJIET '27"
-    status      = "Intern · Researcher · Builder · Founder"
-    obsession   = ["Cybersecurity", "AI Systems", "Astronomy"]
+```text
+YEAR: 2026
 
-    philosophy  = "I don't just build systems. I build control over systems."
+LOCATION:
+Ahmedabad, India
+
+STATUS:
+Building AI Systems.
+Breaking Security Assumptions.
+
+MISSION:
+Create technologies that think,
+adapt,
+and defend.
+
+LONG GAME:
+Researcher.
+Security Architect.
+Founder.
 ```
 
 ---
 
-## ⚔️ Tech Arsenal
+# 🛰 SYSTEM STATUS
 
-<div align="center">
-
-**[ Frontend ]**
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap&theme=dark" />
-
-**[ Backend & AI ]**
-
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,java,nginx&theme=dark" />
-
-**[ Infrastructure ]**
-
-<img src="https://skillicons.dev/icons?i=docker,linux,bash,git,sqlite&theme=dark" />
-
-**[ Cybersecurity ]**
-
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" />
-
-<br/>
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6A00?style=for-the-badge&logo=portswigger&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00FF00)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=tor-project&logoColor=white)
-
-**[ AI / ML Stack ]**
-
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0064A5?style=for-the-badge&logo=meta&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper_ASR-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-</div>
+```diff
++ Identity        : Security Engineer
++ Focus           : Cybersecurity & AI
++ Status          : Building
++ Threat Level    : Controlled
++ Mission         : Active
++ Future          : Global
+```
 
 ---
 
-## 🚀 Flagship Projects
+# 🧠 DIGITAL PROFILE
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Jarvis — Personal AI OS</h3>
-      <p>Voice-controlled, macOS-integrated AI assistant with a React dashboard and Python Flask backend. Uses Whisper for STT, Ollama for local LLM inference, Playwright for browser automation, and AppleScript for deep system-level Mac control.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask"/>
-      <img src="https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ ChakraX — AI Cyber Dashboard</h3>
-      <p>Full-stack cybersecurity intelligence platform featuring automated threat detection, real-time threat intelligence aggregation, TensorFlow.js confusion detection, biometric auth, and PDF report generation.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Orange AI — Local RAG System</h3>
-      <p>Secure, multi-user RAG chatbot running entirely offline. Built on FAISS vector search, Ollama inference, and a hybrid retrieval pipeline — zero cloud dependency, full data sovereignty.</p>
-      <img src="https://img.shields.io/badge/FAISS-0064A5?style=flat&logo=meta&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Ollama-111111?style=flat&logo=ollama"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔍 VAPT Management Platform</h3>
-      <p>Enterprise-grade Vulnerability Assessment & Penetration Testing platform. End-to-end scan tracking, vulnerability lifecycle management, severity scoring, and automated compliance-ready reporting.</p>
-      <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+```bash
+$ whoami
+
+name       : Darshit Ayar
+role       : Security Engineer
+speciality : Offensive Thinking
+obsession  : Cybersecurity
+secondary  : Artificial Intelligence
+education  : B.Tech Computer Science
+
+philosophy :
+
+"Think Like An Attacker.
+Build Like A Founder.
+Scale Like An Engineer."
+```
 
 ---
 
-## 📊 GitHub Stats
+# ⚡ CURRENT OPERATIONS
 
-<div align="center">
+## 🛡 CHAKRAX
 
-<img src="https://github-readme-stats.vercel.app/api?username=DarshitA167&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="175"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshitA167&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6a00&currStreakLabel=a78bfa" height="175"/>
+AI Security Intelligence Platform
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshitA167&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="140"/>
+Capabilities
 
-</div>
+• Threat Intelligence
 
----
+• Security Analytics
 
-## 🌐 Find Me
+• Biometric Authentication
 
-<div align="center">
+• Confusion Detection
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darshit_Ayar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshitayar/)
-[![GitHub](https://img.shields.io/badge/GitHub-DarshitA167-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarshitA167)
-[![Hashnode](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@GTGOAT)
-[![Instagram](https://img.shields.io/badge/Instagram-goatonsummit47-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/goatonsummit47)
-[![Medium](https://img.shields.io/badge/Medium-djahir167-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@djahir167)
+• PDF Security Reporting
 
-</div>
+• AI-Assisted Decision Systems
 
 ---
 
-<div align="center">
+## 🧠 ORANGE AI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+Private AI Infrastructure
 
+Capabilities
 
-</div>
+• Local LLMs
+
+• RAG Pipelines
+
+• FAISS Retrieval
+
+• FastAPI Backend
+
+• Offline Intelligence
+
+---
+
+## 🤖 JARVIS
+
+Personal AI Operating System
+
+Capabilities
+
+• Voice Control
+
+• Browser Automation
+
+• Local Agents
+
+• System Automation
+
+• macOS Integration
+
+---
+
+## 🔍 VAPT PLATFORM
+
+Enterprise Security Assessment System
+
+Capabilities
+
+• Vulnerability Tracking
+
+• Severity Scoring
+
+• Reporting Automation
+
+• Compliance Management
+
+---
+
+# ⚔ TECH ARSENAL
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,bootstrap" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,java,spring" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,bash,sqlite" />
+
+</p>
+
+---
+
+# 🛡 SECURITY TOOLKIT
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/KALI-LINUX-06B6D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BURP-SUITE-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NMAP-3B82F6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/WIRESHARK-06B6D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/METASPLOIT-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TOR-3B82F6?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 COMMAND CENTER
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarshitA167&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DarshitA167&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshitA167&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌌 CONTRIBUTION NETWORK
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshitA167&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 SKILL MATRIX
+
+```text
+CYBERSECURITY      ████████████████████ 95%
+
+AI SYSTEMS         ██████████████████   90%
+
+FULL STACK         █████████████████    85%
+
+SYSTEM DESIGN      ████████████████     80%
+
+DEVOPS             ███████████████      75%
+```
+
+---
+
+# 🏆 ACHIEVEMENT SYSTEM
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DarshitA167&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌍 TRANSMISSION CHANNELS
+
+<p align="center">
+
+<a href="https://linkedin.com/in/darshitayar">
+
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-06B6D4?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/DarshitA167">
+
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-8B5CF6?style=for-the-badge"/>
+
+</a>
+
+<a href="mailto:yourmail@example.com">
+
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-3B82F6?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# 🎞 FINAL FRAME
+
+```text
+Some People Write Code.
+
+Some People Secure Systems.
+
+Some People Build Products.
+
+The Rare Ones Do All Three.
+```
+
+<p align="center">
+
+### Building Systems That Think. Securing Systems That Matter.
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0A0E17,40:8B5CF6,70:3B82F6,100:06B6D4"/>
+
+</p>
