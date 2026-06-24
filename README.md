@@ -24,7 +24,7 @@ Security Engineer • AI Systems Builder • Cybersecurity Researcher
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=1000&lines=Building+Systems+That+Think+Like+Attackers;Cybersecurity+Engineer;AI+Systems+Builder;Future+MS+Cybersecurity+Student;Researching+The+Future+Of+Digital+Defense"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=1000&lines=Building+Systems+That+Think+Like+Attackers;Cybersecurity+Engineer;AI+Systems+Builder;Researching+The+Future+Of+Digital+Defense"/>
 
 </p>
 
