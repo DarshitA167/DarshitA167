@@ -14,7 +14,7 @@ Text       : #E2E8F0
 
 </p>
 
-<h1 align="center">DARSHIT AYAR</h1>
+<h1 align="center">DARSHIT JATINKUMAR AYAR</h1>
 
 <h3 align="center">
 
