@@ -9,7 +9,7 @@ Text       : #E2E8F0
 -->
 
 <p align="center">
-yo
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:0A0E17,40:8B5CF6,70:3B82F6,100:06B6D4&text=DARSHIT%20AYAR&fontColor=E2E8F0&fontSize=70&fontAlignY=40&animation=fadeIn"/>
 
 </p>
